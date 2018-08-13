@@ -1,1 +1,14 @@
-Python code for connecting RPi to HD44780 LCD 
+Python code for connecting RPi to HD44780 LCD (16 x 2)
+
+USAGE:
+
+from lcd import *
+
+# done once to initialize
+lcd_init() 
+
+# print string "ABC" onto first line
+lcd_string("ABC", LCD_LINE_1)
+
+# print string "DEF" onto second line
+lcd_string("DEF", LCD_LINE_2)
