@@ -1,2 +1,2 @@
 # raspberry-pi
-Bunch of useful codes for Raspberry Pi projects
+Bunch of useful codes for devices connected to Raspberry Pi and Raspberry Pi projects
