@@ -1,4 +1,5 @@
 Python code for connecting RPi to HD44780 LCD (16 x 2)
+We assume RPi.GPIO python library has already been installed in RPi
 
 USAGE:
 
